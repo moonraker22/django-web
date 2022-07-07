@@ -1,0 +1,17 @@
+.btn__login:hover {
+  background-color: rgba(18, 8, 156, 0.267);
+  border-color: #f5f5f5;
+  color: #333;
+}
+
+.alert__remove {
+    display: none;
+}
+
+.alert__remove {
+    display: inline-block;
+}
+
+#alert-error {
+    display: none;
+}
